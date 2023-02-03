@@ -1,4 +1,4 @@
-https://github.com/Cameronshir11/Cams-Lab-Repository/actions?query=workflow%3Atests](https://github.com/Cameronshir11/Cams-Lab-Repository/workflows/tests/badge.svg)
+![https://github.com/Cameronshir11/Cams-Lab-Repository/actions?query=workflow%3Atests](https://github.com/Cameronshir11/Cams-Lab-Repository/workflows/tests/badge.svg)
 
 # Pytest Lab
 
